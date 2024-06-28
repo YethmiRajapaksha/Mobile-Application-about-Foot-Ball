@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">w1956078_CW2</string>
+    <string name="title_activity_add_leagues">AddLeagues</string>
+    <string name="title_activity_search_by_leagues">SearchByLeagues</string>
+    <string name="title_activity_search_club">SearchClub</string>
+    <string name="title_activity_add_league">AddLeague</string>
+    <string name="title_activity_jersey">jersey</string>
+</resources>
